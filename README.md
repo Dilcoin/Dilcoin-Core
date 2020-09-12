@@ -8,4 +8,4 @@ Dil Coin is a PoW/PoS & masternode cryptocurrency.
 * PoW Blocks - 10,000
 * Masternode Requirements - 25,000 DIL
 * RPC Port - 23111
-• P2P Port - 23112
+* P2P Port - 23112
