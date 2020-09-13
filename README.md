@@ -1,4 +1,4 @@
-# Dil Coin (DIL)
+# Dil Coin Core Wallet
 Dil Coin is a PoW/PoS & masternode cryptocurrency.
 
 **For the latest wallets and binaries:** https://github.com/Dilcoin/Dilcoin-Core/releases/latest
