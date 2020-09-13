@@ -1,7 +1,7 @@
 # Dil Coin (DIL)
 Dil Coin is a PoW/PoS & masternode cryptocurrency.
 
-**For the latest wallets and binaries:** https://github.com/Dilcoin/Dilcoin/releases/latest
+**For the latest wallets and binaries:** https://github.com/Dilcoin/Dilcoin-Core/releases/latest
 
 ## Specs
 * Blocktime - 1 min
